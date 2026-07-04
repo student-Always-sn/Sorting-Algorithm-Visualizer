@@ -104,21 +104,21 @@ Open the local development URL shown in the terminal (usually `http://localhost:
 
 Select one or more sorting algorithms, adjust array size, control animation speed, generate random arrays, or provide custom input before starting the visualization.
 
-![Main Page](assets/mainpage.png)
+![Main Page](src/assets/mainpage.png)
 
 ---
 ### 📊 Live Race Progress
 
 Monitor the execution progress of every algorithm with real-time progress bars, completion status, and the currently leading algorithm.
 
-![Live Race Progress](assets/Liveprogress.gif)
+![Live Race Progress](src/assets/Liveprogress.gif)
 
 ---
 ### 🏆 Race Results
 
 View the final ranking of sorting algorithms based on their execution time and overall performance after the race finishes.
 
-![Race Results](assets/raceresult.png)
+![Race Results](src/assets/raceresult.png)
 
 ---
 
