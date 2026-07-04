@@ -41,11 +41,17 @@ Sorting algorithms are fundamental concepts in computer science, but understandi
 * **CSS3**
 
 ---
-
-## 📁 Project Structure
+# 📂 Project Structure
 
 ```text
 Sorting-Algorithm-Visualizer
+│
+├── assets/
+│   ├── mainpage.png
+│   ├── racemode.gif
+│   ├── Liveprogress.gif
+│   ├── raceresult.png
+│   └── react.svg
 │
 ├── public/
 ├── src/
@@ -59,6 +65,7 @@ Sorting-Algorithm-Visualizer
 ├── README.md
 └── .gitignore
 ```
+
 
 ---
 
