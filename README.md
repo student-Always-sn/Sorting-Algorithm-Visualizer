@@ -1,12 +1,12 @@
 # 🚀 Sorting Algorithm Visualizer
 
-An interactive and responsive web application that visualizes how different sorting algorithms work through real-time animations. This project helps users understand the internal working of sorting algorithms by displaying each comparison and swap step-by-step.
+An interactive and responsive web application that visualizes how different sorting algorithms work through real-time animations. This project helps users understand the internal workings of sorting algorithms by displaying each comparison and swap step by step.
 
 ---
 
 ## 📖 Overview
 
-Sorting algorithms are fundamental concepts in computer science, but understanding how they work can be challenging through theory alone. This visualizer provides an intuitive way to learn by animating the sorting process, making it easier for students, beginners, and programming enthusiasts to grasp algorithm behavior.
+Sorting algorithms are fundamental concepts in computer science, but understanding how they work can be challenging through theory alone. This visualizer provides an intuitive way to learn by animating the sorting process, making it easier for students, beginners, and programming enthusiasts to grasp how algorithms behave.
 
 ---
 
@@ -158,5 +158,6 @@ This project helped in understanding:
 * Mobile UI improvements
 
 ---
+## Live Demo: https://sorting-algorithm-visualizer-z6h8.vercel.app/
 
 ⭐ If you found this project helpful, consider giving it a star!
